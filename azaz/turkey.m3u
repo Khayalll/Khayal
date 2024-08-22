@@ -1,0 +1,63 @@
+#EXTM3U 
+#EXTINF: -1 tvg-name="|TR| NTVSPOR HD " group-title="Turkich ", 1|TR| NTVSPOR HD
+http://37.221.122.86:8383/trspor.ts
+#EXTINF: -1 tvg-name="|TR| BEIN SPORTS 1 HD " group-title="Turkich ", 2|TR| BEIN SPORTS 1 HD
+http://37.221.122.86:8383/trspor.ts
+#EXTINF: -1 tvg-name="|TR| BEIN FUTBOL HD " group-title="Turkich ", 3|TR| BEIN FUTBOL HD
+http://37.221.122.86:8383/hls/trspor/playlist.m3u8
+#EXTINF: -1 tvg-name="|TR| beIN SPORTS HABER " group-title="Turkich ", |TR| beIN SPORTS HABER
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124031
+#EXTINF: -1 tvg-name="|TR| beIN SPORTS 1 " group-title="Turkich ", |TR| beIN SPORTS 1
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124032
+#EXTINF: -1 tvg-name="|TR| beIN SPORTS 1 " group-title="Turkich ", |TR| beIN SPORTS 1
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124033
+#EXTINF: -1 tvg-name="|TR| BEINSPORTS 1 " group-title="Turkich ", |TR| BEINSPORTS 1
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124034
+#EXTINF: -1 tvg-name="|TR| BEIN SPORTS 2 " group-title="Turkich ", |TR| BEIN SPORTS 2
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124035
+#EXTINF: -1 tvg-name="|TR| TR:beIN SPORTS 2" group-title="Turkich ", |TR| TR:beIN SPORTS 2
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124036
+#EXTINF: -1 tvg-name="|TR| BEIN SPORTS 3 " group-title="Turkich ", |TR| BEIN SPORTS 3
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124037
+#EXTINF: -1 tvg-name="|TR| TR:beIN SPORTS 3" group-title="Turkich ", |TR| TR:beIN SPORTS 3
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124038
+#EXTINF: -1 tvg-name="|TR| beIN SPORTS 4 " group-title="Turkich ", |TR| beIN SPORTS 4
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124039
+#EXTINF: -1 tvg-name="|TR| BEIN SPORTS 4 " group-title="Turkich ", |TR| BEIN SPORTS 4
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124040
+#EXTINF: -1 tvg-name="|TR| TR:beIN SPORTS 4" group-title="Turkich ", |TR| TR:beIN SPORTS 4
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124041
+#EXTINF: -1 tvg-name="|TR| TR:beIN SPORTS Max 1" group-title="Turkich ", |TR| TR:beIN SPORTS Max 1
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124042
+#EXTINF: -1 tvg-name="|TR| TR:beIN SPORTS MAX 2" group-title="Turkich ", |TR| TR:beIN SPORTS MAX 2
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124043
+#EXTINF: -1 tvg-name="|TR| TR:beIN SPORTS HABER" group-title="Turkich ", |TR| TR:beIN SPORTS HABER
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124044
+#EXTINF: -1 tvg-name="|TR| TR:TIVIBUSPOR 1" group-title="Turkich ", |TR| TR:TIVIBUSPOR 1
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124045
+#EXTINF: -1 tvg-name="|TR| TIVIBUSPOR-1 " group-title="Turkich ", |TR| TIVIBUSPOR-1
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124046
+#EXTINF: -1 tvg-name="|TR| TIVIBUSPOR-2 " group-title="Turkich ", |TR| TIVIBUSPOR-2
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124047
+#EXTINF: -1 tvg-name="|TR| TR:TIVIBUSPOR 3" group-title="Turkich ", |TR| TR:TIVIBUSPOR 3
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124048
+#EXTINF: -1 tvg-name="|TR| TIVIBUSPOR-3" group-title="Turkich ", |TR| TIVIBUSPOR-3
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124049
+#EXTINF: -1 tvg-name="|TR| SPOR SMART " group-title="Turkich ", |TR| SPOR SMART
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124050
+#EXTINF: -1 tvg-name="|TR| S-SPORT 2 " group-title="Turkich ", |TR| S-SPORT 2
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124051
+#EXTINF: -1 tvg-name="|TR| TR:EUROSPORT 1" group-title="Turkich ", |TR| TR:EUROSPORT 1
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124052
+#EXTINF: -1 tvg-name="|TR| EUROSPORT 1 " group-title="Turkich ", |TR| EUROSPORT 1
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124053
+#EXTINF: -1 tvg-name="|TR| EUROSPORT 2 " group-title="Turkich ", |TR| EUROSPORT 2
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124054
+#EXTINF: -1 tvg-name="|TR| A SPOR " group-title="Turkich ", |TR| A SPOR
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124055
+#EXTINF: -1 tvg-name="|TR| A SPOR " group-title="Turkich ", |TR| A SPOR
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124056
+#EXTINF: -1 tvg-name="|TR| TR:TRT SPOR " group-title="Turkich ", |TR| TR:TRT SPOR
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124057
+#EXTINF: -1 tvg-name="|TR| TR:S SPORT" group-title="Turkich ", |TR| TR:S SPORT
+http://mcopro.live:7788/JAWADEXTRA/00N0K0lMl4J1U/124058

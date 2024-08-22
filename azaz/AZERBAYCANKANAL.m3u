@@ -1,0 +1,306 @@
+#EXTM3U
+#EXTINF:28,Agro TV Azerbaycan
+http://stream.tvcdn.net/azerbaycan/agro-tv-azerbaycan.m3u8
+#EXTINF:0,Apa TV
+http://stream.tvcdn.net/azerbaycan/apa-tv.m3u8
+#EXTINF:0,ARB
+http://stream.tvcdn.net/azerbaycan/arb.m3u8
+#EXTINF:0,ARB 24
+http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
+#EXTINF:0,ARB Günhttp://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
+#EXTINF:0,Aznews TV
+http://stream.tvcdn.net/azerbaycan/aznews-tv.m3u8
+#EXTINF:0,AZ TV
+http://stream.tvcdn.net/azerbaycan/az-tv.m3u8
+#EXTINF:0,Azad TV
+http://stream.tvcdn.net/azerbaycan/azad-tv.m3u8
+#EXTINF:0,Az Star TV
+http://stream.tvcdn.net/azerbaycan/az-star-tv.m3u8
+#EXTINF:0,Baku TV
+http://stream.tvcdn.net/azerbaycan/baku-tv.m3u8
+#EXTINF:0,CBC
+http://stream.tvcdn.net/azerbaycan/cbc.m3u8
+#EXTINF:0,CBC Sport
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:0,Dünya TV
+http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
+#EXTINF:0,Farrukh TV
+http://stream.tvcdn.net/azerbaycan/farrukh-tv.m3u8
+#EXTINF:0,GEM AZ
+http://stream.tvcdn.net/azerbaycan/gem-az.m3u8
+#EXTINF:0,http://stream.tvcdn.net/azerbaycan/ictimai-tv.m3u8
+#EXTINF:0,IdmanTv
+https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8
+#EXTINF:0,Kepez TV
+http://stream.tvcdn.net/azerbaycan/kepez-tv.m3u8
+#EXTINF:0,Live TV
+http://stream.tvcdn.net/azerbaycan/live-tv.m3u8
+#EXTINF:0,MCJ TV Shop
+http://stream.tvcdn.net/azerbaycan/mcj-tv-shop.m3u8
+#EXTINF:0,Mhttp://stream.tvcdn.net/azerbaycan/medeniyyet-tv.m3u8
+#EXTINF:0,Muz TV Azerbaycan
+http://stream.tvcdn.net/azerbaycan/muz-tv-azerbaycan.m3u8
+#EXTINF:0,Naxcivan TV
+http://stream.tvcdn.net/azerbaycan/naxcivan-tv.m3u8
+#EXTINF:0,Real TV
+http://stream.tvcdn.net/azerbaycan/real-tv.m3u8
+#EXTINF:0,Shttp://stream.tvcdn.net/azerbaycan/sahar-tv-azeri.m3u8
+#EXTINF:0,Sehiyye TV
+http://stream.tvcdn.net/azerbaycan/sehiyye-tv.m3u8
+#EXTINF:0,Space TV
+http://stream.tvcdn.net/azerbaycan/space-tv.m3u8
+#EXTINF:0,Start TV
+http://stream.tvcdn.net/azerbaycan/start-tv.m3u8
+#EXTINF:0,TMB Azerbaycan
+http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
+#EXTINF:0,VIP HD
+http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
+#EXTINF:0,Vilayet TV
+http://stream.tvcdn.net/azerbaycan/vilayet-tv.m3u8
+#EXTINF:0,Xezer TV
+http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
+#EXTINF:0,Alvin TV
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:0,Qafgaz Tv
+https://str1.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=02ad2e6971e820a96b67190073d2463d8d8375cc-18972f71d0511585194435bca4259dad-1722786741-1722775941
+#EXTINF:0,Kanal 12
+http://stream.tvcdn.net/dini/kanal-12.m3u8
+#EXTINF:0,On4 TV
+http://stream.tvcdn.net/dini/on4-tv.m3u8
+#EXTINF:0,Hadi TV Türkçe
+http://stream.tvcdn.net/dini/hadi-tv-turkce.m3u8
+#EXTINF:0,Al Zahra Tv
+https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_source/chunks.m3u8
+#EXTINF:0,Hadi Tv Az
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:0,Bloomberg
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o8/bloomberg/playlist.m3u8
+#EXTINF:0,https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0,https://player.smotrim.ru/iframe/stream/live_id/2961
+#EXTINF:0,Bolt
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o4/mtvhits/playlist.m3u8
+#EXTINF:0,Euronews #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/euronews/playlist.m3u8
+#EXTINF:0,Extreme Sports
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o4/extremesport/playlist.m3u8
+#EXTINF:0,RU TV
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o7/rutv/playlist.m3u8
+#EXTINF:0,viju Explore
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/viasatexporer/playlist.m3u8
+#EXTINF:0,viju History
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/viasathistory/playlist.m3u8
+#EXTINF:0,viju Nature
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/viasatnature/playlist.m3u8
+#EXTINF:0,Viju+ Sport
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o7/viasatsport/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/tvzvezda/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o2/mamatv/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/muztv/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/rbktv/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o2/rentv/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o2/tvc/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o7/tnt4/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o5/chetv/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o7/shansontv/playlist.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o3/utv/playlist.m3u8
+#EXTINF:0,Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/7bd3eaaa-d2d0-46fd-9c5e-8e56da251799/1.m3u8
+#EXTINF:0,IFilm
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilmfa.smil/chunklist_w306120779_b644100_slen.m3u8
+#EXTINF:0,IFilm 2
+https://cdnlive.presstv.ir/ifilmlive/smil:ifilm2.smil/chunklist_w371543048_b644100_slen.m3u8
+#EXTINF:0,Amoozesh Tv
+https://cdn-azd2054.telewebion.com/se/amouzesh/live/576p/index.m3u8
+#EXTINF:0,IRIB 1
+https://live.aionet.ir/hls/tv1/tv1.m3u8
+#EXTINF:0,IRIB 2
+https://live.aionet.ir/hls/tv2/tv2.m3u8
+#EXTINF:0,TRT 1
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+#EXTINF:0,atv
+http://stream.tvcdn.net/ulusal/atv.m3u8
+#EXTINF:0,Kanal D
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
+#EXTINF:0,Now TV
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
+#EXTINF:0,Show TV
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
+#EXTINF:0,Beyaz TV
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+#EXTINF:0,Kanal 7
+http://stream.tvcdn.net/ulusal/kanal-7.m3u8
+#EXTINF:0,TV8
+http://stream.tvcdn.net/ulusal/tv8.m3u8
+#EXTINF:0,Star TV
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
+#EXTINF:0,360 TV
+http://stream.tvcdn.net/ulusal/360-tv.m3u8
+#EXTINF:0,TV 100
+http://stream.tvcdn.net/ulusal/tv-100.m3u8
+#EXTINF:0,TRT Türk
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
+#EXTINF:0,TRT Avaz
+http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
+#EXTINF:0,ATV Avrupa
+http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
+#EXTINF:0,Euro D
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
+#EXTINF:0,TGRT AB
+http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
+#EXTINF:0,Show Türk
+http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
+#EXTINF:0,TV8 Int
+http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
+#EXTINF:0,Euro Star
+http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
+#EXTINF:0,TRT Haber
+http://stream.tvcdn.net/haber/trt-haber.m3u8
+#EXTINF:0,A Haber
+http://stream.tvcdn.net/haber/a-haber.m3u8
+#EXTINF:0,CNN Türk
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
+#EXTINF:0,TGRT Haber
+http://stream.tvcdn.net/haber/tgrt-haber.m3u8
+#EXTINF:0,Habertürk
+http://stream.tvcdn.net/haber/haberturk.m3u8
+#EXTINF:0,Haber Global
+http://stream.tvcdn.net/haber/haber-global.m3u8
+#EXTINF:0,TRT 2
+http://stream.tvcdn.net/eglence/trt-2.m3u8
+#EXTINF:0,a2
+http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:0,teve2
+http://stream.tvcdn.net/eglence/teve2.m3u8
+#EXTINF:0,Show Maks
+http://stream.tvcdn.net/eglence/show-max.m3u8
+#EXTINF:0,TV8 .5
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
+#EXTINF:0,DMAX
+http://stream.tvcdn.net/eglence/dmax.m3u8
+#EXTINF:0,TLC
+http://stream.tvcdn.net/eglence/tlc.m3u8
+#EXTINF:0,TV 4
+http://stream.tvcdn.net/eglence/tv-4.m3u8
+#EXTINF:0,Dizi Film TV
+http://stream.tvcdn.net/eglence/dizi-film-tv.m3u8
+#EXTINF:0,Sanat TV
+http://stream.tvcdn.net/eglence/kultur-sanat-tv.m3u8
+#EXTINF:0,Belgesel TV
+http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
+#EXTINF:0,SG TV
+http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
+#EXTINF:0,Tarih TV
+http://stream.tvcdn.net/eglence/tarih-tv.m3u8
+#EXTINF:0,TRT Spor
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:0,TRT Spor Yildiz
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+#EXTINF:0,TRT 3 Spor
+http://stream.tvcdn.net/spor/trt-3-spor.m3u8
+#EXTINF:0,A Spor
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:0,Sports TV
+http://stream.tvcdn.net/spor/sports-tv.m3u8
+#EXTINF:0,beIN Sports Haber
+https://www.youtube.com/embed/OypUpUTYAHI
+#EXTINF:0,Tivibu Spor
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+#EXTINF:0,FB TV
+http://stream.tvcdn.net/spor/fb-tv.m3u8
+#EXTINF:0,GS TV
+http://stream.tvcdn.net/spor/gs-tv.m3u8
+#EXTINF:0,TRT Müzik
+http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+#EXTINF:0,Dream Türk
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+#EXTINF:0,Powertürk TV
+http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
+#EXTINF:0,Power TV
+http://stream.tvcdn.net/muzik/power-tv.m3u8
+#EXTINF:0,Kral Pop tv
+http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
+#EXTINF:0,Number One
+http://stream.tvcdn.net/muzik/number-one-tv.m3u8
+#EXTINF:0,Number One Türk
+http://stream.tvcdn.net/muzik/number-one-turk.m3u8
+#EXTINF:0,Milyon TV
+http://stream.tvcdn.net/muzik/milyon-tv.m3u8
+#EXTINF:0,Tatlises TV
+http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
+#EXTINF:0,TMB
+http://stream.tvcdn.net/muzik/tmb.m3u8
+#EXTINF:0,Power Dance
+http://stream.tvcdn.net/muzik/power-dance.m3u8
+#EXTINF:0,Power Love
+http://stream.tvcdn.net/muzik/power-love.m3u8
+#EXTINF:0,Power Akustik
+http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
+#EXTINF:0,Powertürk Yavahttp://stream.tvcdn.net/muzik/powerturk-slow.m3u8
+#EXTINF:0,Powertürk Taptaze
+http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
+#EXTINF:0,Number 1 Ahttp://stream.tvcdn.net/muzik/number-1-ask.m3u8
+#EXTINF:0,Number 1 Damar
+http://stream.tvcdn.net/muzik/number-1-damar.m3u8
+#EXTINF:0,Number 1 Dance
+http://stream.tvcdn.net/muzik/number-1-dance.m3u8
+#EXTINF:0,TRT Belgesel
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:0,TGRT Belgesel
+http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
+#EXTINF:0,Yaban TV
+http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+#EXTINF:0,Agro TV
+http://stream.tvcdn.net/belgesel/agro-tv.m3u8
+#EXTINF:0,Çiftçi TV
+http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
+#EXTINF:0,Tarhttp://stream.tvcdn.net/belgesel/tarim-tv.m3u8
+#EXTINF:0,Köy TV
+http://stream.tvcdn.net/belgesel/koy-tv.m3u8
+#EXTINF:0,Toprak TV
+http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
+#EXTINF:0,TRT Çocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
+#EXTINF:0,TRT EBA
+http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
+#EXTINF:0,TRT Diyanet Çocuk
+http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+#EXTINF:0,Minika Çocuk
+https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk_480p.m3u8?e=1723051187&st=zH1Lq5zxsSPhIuP9S1NJeA&sid=6mw3z96gz6co&app=8e9e79c3-44e3-4a41-a921-1d8f0e7887c0&ce=3
+#EXTINF:0,Minika Go
+https://trkvz.daioncdn.net/minikago/minikago_480p.m3u8?e=1723051103&st=qefQk7ZVzmnFG_LsL2O-7Q&sid=6mw3uqfbk7b3&app=be451f3e-b8d8-4edd-8469-1030b5ad7fd3&ce=3
+#EXTINF:0,Cartoon Network
+http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+#EXTINF:0,B TV
+http://stream.tvcdn.net/cocuk-egitim/bilsem-bizim-tv.m3u8
+#EXTINF:0,Çocuklara Özel TV
+http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
+#EXTINF:0,Cizgi Film TV
+http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
