@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:28,Agro TV Azerbaycan
+#EXTINF:0,Agro TV Azerbaycan
 http://stream.tvcdn.net/azerbaycan/agro-tv-azerbaycan.m3u8
 #EXTINF:0,Apa TV
 http://stream.tvcdn.net/azerbaycan/apa-tv.m3u8
@@ -7,7 +7,7 @@ http://stream.tvcdn.net/azerbaycan/apa-tv.m3u8
 http://stream.tvcdn.net/azerbaycan/arb.m3u8
 #EXTINF:0,ARB 24
 http://stream.tvcdn.net/azerbaycan/arb-24.m3u8
-#EXTINF:0,ARB Günhttp://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
+#EXTINF:0,ARB GÃ¼nhttp://stream.tvcdn.net/azerbaycan/arb-gunes.m3u8
 #EXTINF:0,Aznews TV
 http://stream.tvcdn.net/azerbaycan/aznews-tv.m3u8
 #EXTINF:0,AZ TV
@@ -22,7 +22,7 @@ http://stream.tvcdn.net/azerbaycan/baku-tv.m3u8
 http://stream.tvcdn.net/azerbaycan/cbc.m3u8
 #EXTINF:0,CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:0,Dünya TV
+#EXTINF:0,DÃ¼nya TV
 http://stream.tvcdn.net/azerbaycan/dunya-tv.m3u8
 #EXTINF:0,Farrukh TV
 http://stream.tvcdn.net/azerbaycan/farrukh-tv.m3u8
@@ -67,7 +67,7 @@ https://str1.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=02ad2e6971e820a96b67
 http://stream.tvcdn.net/dini/kanal-12.m3u8
 #EXTINF:0,On4 TV
 http://stream.tvcdn.net/dini/on4-tv.m3u8
-#EXTINF:0,Hadi TV Türkçe
+#EXTINF:0,Hadi TV TÃ¼rkÃ§e
 http://stream.tvcdn.net/dini/hadi-tv-turkce.m3u8
 #EXTINF:0,Al Zahra Tv
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/alzahrapublish/alzahra_source/chunks.m3u8
@@ -165,7 +165,7 @@ http://stream.tvcdn.net/ulusal/star-tv.m3u8
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:0,TV 100
 http://stream.tvcdn.net/ulusal/tv-100.m3u8
-#EXTINF:0,TRT Türk
+#EXTINF:0,TRT TÃ¼rk
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
 #EXTINF:0,TRT Avaz
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
@@ -175,7 +175,7 @@ http://stream.tvcdn.net/ulusal-yurt-disi/atv-avrupa.m3u8
 http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
 #EXTINF:0,TGRT AB
 http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
-#EXTINF:0,Show Türk
+#EXTINF:0,Show TÃ¼rk
 http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
 #EXTINF:0,TV8 Int
 http://stream.tvcdn.net/ulusal-yurt-disi/tv8-int.m3u8
@@ -185,11 +185,11 @@ http://stream.tvcdn.net/ulusal-yurt-disi/euro-star.m3u8
 http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:0,A Haber
 http://stream.tvcdn.net/haber/a-haber.m3u8
-#EXTINF:0,CNN Türk
+#EXTINF:0,CNN TÃ¼rk
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:0,TGRT Haber
 http://stream.tvcdn.net/haber/tgrt-haber.m3u8
-#EXTINF:0,Habertürk
+#EXTINF:0,HabertÃ¼rk
 http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:0,Haber Global
 http://stream.tvcdn.net/haber/haber-global.m3u8
@@ -237,11 +237,11 @@ http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 http://stream.tvcdn.net/spor/fb-tv.m3u8
 #EXTINF:0,GS TV
 http://stream.tvcdn.net/spor/gs-tv.m3u8
-#EXTINF:0,TRT Müzik
+#EXTINF:0,TRT MÃ¼zik
 http://stream.tvcdn.net/muzik/trt-muzik.m3u8
-#EXTINF:0,Dream Türk
+#EXTINF:0,Dream TÃ¼rk
 http://stream.tvcdn.net/muzik/dream-turk.m3u8
-#EXTINF:0,Powertürk TV
+#EXTINF:0,PowertÃ¼rk TV
 http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
 #EXTINF:0,Power TV
 http://stream.tvcdn.net/muzik/power-tv.m3u8
@@ -249,7 +249,7 @@ http://stream.tvcdn.net/muzik/power-tv.m3u8
 http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
 #EXTINF:0,Number One
 http://stream.tvcdn.net/muzik/number-one-tv.m3u8
-#EXTINF:0,Number One Türk
+#EXTINF:0,Number One TÃ¼rk
 http://stream.tvcdn.net/muzik/number-one-turk.m3u8
 #EXTINF:0,Milyon TV
 http://stream.tvcdn.net/muzik/milyon-tv.m3u8
@@ -263,8 +263,8 @@ http://stream.tvcdn.net/muzik/power-dance.m3u8
 http://stream.tvcdn.net/muzik/power-love.m3u8
 #EXTINF:0,Power Akustik
 http://stream.tvcdn.net/muzik/powerturk-akustik.m3u8
-#EXTINF:0,Powertürk Yavahttp://stream.tvcdn.net/muzik/powerturk-slow.m3u8
-#EXTINF:0,Powertürk Taptaze
+#EXTINF:0,PowertÃ¼rk Yavahttp://stream.tvcdn.net/muzik/powerturk-slow.m3u8
+#EXTINF:0,PowertÃ¼rk Taptaze
 http://stream.tvcdn.net/muzik/powerturk-taptaze.m3u8
 #EXTINF:0,Number 1 Ahttp://stream.tvcdn.net/muzik/number-1-ask.m3u8
 #EXTINF:0,Number 1 Damar
@@ -279,20 +279,20 @@ http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:0,Agro TV
 http://stream.tvcdn.net/belgesel/agro-tv.m3u8
-#EXTINF:0,Çiftçi TV
+#EXTINF:0,Ã‡iftÃ§i TV
 http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
 #EXTINF:0,Tarhttp://stream.tvcdn.net/belgesel/tarim-tv.m3u8
-#EXTINF:0,Köy TV
+#EXTINF:0,KÃ¶y TV
 http://stream.tvcdn.net/belgesel/koy-tv.m3u8
 #EXTINF:0,Toprak TV
 http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
-#EXTINF:0,TRT Çocuk
+#EXTINF:0,TRT Ã‡ocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
 #EXTINF:0,TRT EBA
 http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
-#EXTINF:0,TRT Diyanet Çocuk
+#EXTINF:0,TRT Diyanet Ã‡ocuk
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
-#EXTINF:0,Minika Çocuk
+#EXTINF:0,Minika Ã‡ocuk
 https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk_480p.m3u8?e=1723051187&st=zH1Lq5zxsSPhIuP9S1NJeA&sid=6mw3z96gz6co&app=8e9e79c3-44e3-4a41-a921-1d8f0e7887c0&ce=3
 #EXTINF:0,Minika Go
 https://trkvz.daioncdn.net/minikago/minikago_480p.m3u8?e=1723051103&st=qefQk7ZVzmnFG_LsL2O-7Q&sid=6mw3uqfbk7b3&app=be451f3e-b8d8-4edd-8469-1030b5ad7fd3&ce=3
@@ -300,7 +300,7 @@ https://trkvz.daioncdn.net/minikago/minikago_480p.m3u8?e=1723051103&st=qefQk7ZVz
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
 #EXTINF:0,B TV
 http://stream.tvcdn.net/cocuk-egitim/bilsem-bizim-tv.m3u8
-#EXTINF:0,Çocuklara Özel TV
+#EXTINF:0,Ã‡ocuklara Ã–zel TV
 http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
 #EXTINF:0,Cizgi Film TV
 http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
